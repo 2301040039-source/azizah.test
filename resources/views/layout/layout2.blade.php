@@ -108,7 +108,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Home - L. M. ARANTA THIAR ELKANTA RIZKY ILLAHI</title>
+  <title>Home </title>
   <style>
     body {
       margin: 0;
