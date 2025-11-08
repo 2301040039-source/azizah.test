@@ -231,7 +231,7 @@
 
     <div class="gallery">
       <div class="card">
-        <img src="https://images.unsplash.com/photo-1566916543055-44d2c7d2dc16" alt="Acropolis, Yunani">
+        <img src="images/acropolis.jpg" alt="Acropolis, Yunani">
         <div class="caption">Acropolis, Yunani</div>
       </div>
 

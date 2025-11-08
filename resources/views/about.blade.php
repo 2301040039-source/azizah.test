@@ -117,9 +117,13 @@
   <header>
     <div>
       <a href="/home">Home</a>
-      <a href="about.html">About</a>
+      <a href="/about">About</a>
     </div>
-    <div>2301040028 - FITRI RAMADHANI (GENAP)</div>
+    <div>
+      2301010128 - Fitri Ramadani (GENAP)
+      &nbsp; | &nbsp;
+      2301010039 - Bunga Azizah (GANJIL)
+    </div>
   </header>
 
   <div class="container">
@@ -127,7 +131,7 @@
 
     <div class="profiles">
       <div class="card">
-        <img src="/images/fitri.jpg" alt="Bunga Azizah" class="profile-img">
+        <img src="images/huayana.jpg" alt="Bunga Azizah" class="profile-img">
         <div class="name">BUNGA AZIZAH</div>
         <div class="nim">2301040039</div>
         <div class="bio">
@@ -137,7 +141,7 @@
       </div>
 
       <div class="card">
-        <img src="/images/fitri.jpg" alt="Fitri Ramadhani" class="profile-img">
+        <img src="images/huayana.jpg" alt="Fitri Ramadhani" class="profile-img">
         <div class="name">FITRI RAMADHANI</div>
         <div class="nim">2301040028</div>
         <div class="bio">
