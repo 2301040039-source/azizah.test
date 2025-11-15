@@ -14,12 +14,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About -  FITRI RAMADHANI UTS</title>
+  <title>About</title>
   <style>
     body {
       margin: 0;
       font-family: "Poppins", sans-serif;
-      background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e'); /* ganti sesuai gambar Santorini */
+      background-image: url('images/bckground.webp'); 
       background-size: cover;
       background-position: center;
       color: white;

@@ -12,8 +12,8 @@ class BlogController extends Controller
     public function home()
     {
         $posts = post::data();
-        $totalposts = post::count();
-        return view('home', compact('posts','totalposts'));
+        // $totalposts = post::count();
+        return view('home', compact('posts'));
     }
 
     // single kalo diklik satu2
